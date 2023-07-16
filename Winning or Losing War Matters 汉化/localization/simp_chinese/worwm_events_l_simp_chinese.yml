@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ worwm_events.1.t:0 "胜者！"
+ worwm_events.1.d:0 "无论是通过威吓还是通过原始的力量，我们的军队取得了胜利，至少实现了我们的一个目标。"
+ worwm_events.1.f:0 "我们来了。我们看见了。我们...最后那句话是什么来着？"
+ worwm_events.1.a:0 "庆祝我们胜利的军队。"
+ worwm_events.1.b:0 "这完全归功于[SCOPE.GetRootScope.GetCountry.GetRuler.GetFullName]的卓越领导。"
+ worwm_events.1.c:0 "尽管有时候战争是必要的，无论胜利还是失败，战争都是地狱。我们不能听信国内的和平主义者对战争进行美化。"
+ worwm_events.2.t:0 "失败"
+ worwm_events.2.d:0 "我们别无选择，只能向强大的敌人屈服。"
+ worwm_events.2.f:0 "有时候你得知道何时放弃。特别是当告诉你放弃并且包围你的是敌人。"
+ worwm_events.2.a:0 "这是军队的过错！"
+ worwm_events.2.b:0 "[SCOPE.GetRootScope.GetCountry.GetRuler.GetFullName]是唯一说服我们这是个好主意的人。"
+ worwm_events.2.c:0 "这是和平主义者的过错，因为他们没有支持我们的战争目标。"
