@@ -1,0 +1,12 @@
+{
+  "name" : "Beautiful Asia States 汉化",
+  "id" : "",
+  "version" : "0.1.0",
+  "supported_game_version" : "1.3.*",
+  "short_description" : "Beautiful Asia States 的汉化模组",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
