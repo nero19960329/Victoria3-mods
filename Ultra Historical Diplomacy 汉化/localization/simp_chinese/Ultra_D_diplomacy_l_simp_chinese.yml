@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ DIPLOMATIC_ACCEPTANCE_PRUSSIA: 0 "德意志关税同盟"
+ DIPLOMATIC_ACCEPTANCE_ITALIA: 0 "意大利优先"
+ DIPLO_ACTION_SAME_CONTINENT_REQUIRED: 0 "首都需要位于同一大陆"
+ perpetual_neutrality: "$concept_perpetual_neutrality$"
+ perpetual_neutrality_desc: "#header $perpetual_neutrality$#!\n$TOOLTIP_DELIMITER$\n这是一种外交立场，防止与任何其他的[Concept('concept_recognized_power', '$concept_recognized_power$')]开始或参与[Concept('concept_diplomatic_play', '$concept_diplomatic_play$')]。国际贱民（拥有超过100点的[Concept('concept_infamy', '$concept_infamy$')]的国家）可以绕过此限制。"
+ concept_perpetual_neutrality: "永久中立"
+ concept_perpetual_neutrality_desc: "#header $perpetual_neutrality$#!\n$TOOLTIP_DELIMITER$\n这是一种外交立场，防止与任何其他的[Concept('concept_recognized_power', '$concept_recognized_power$')]开始或参与[Concept('concept_diplomatic_play', '$concept_diplomatic_play$')]。国际贱民（拥有超过100点的[Concept('concept_infamy', '$concept_infamy$')]的国家）可以绕过此限制。"

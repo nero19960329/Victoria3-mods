@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ gpo_release_country_subject_text: 1 "你确定要将[ReleaseCountrypWindow.GetCountryCreation.GetName]作为一个 [concept_subject] [concept_country] 释放给 [GetPlayer.GetName] 吗？\n"
+ gpo_release_country_independent_text: 1 "你确定要将[ReleaseCountryWindow.GetCountryCreation.GetName]作为一个独立的[concept_country]释放吗？\n"
+ gpo_release_country_reward: 1 "他们将获得以下国家：\n"
+ RETAIN_OWN_HOMELAND: 0 "保留自己的本土"
