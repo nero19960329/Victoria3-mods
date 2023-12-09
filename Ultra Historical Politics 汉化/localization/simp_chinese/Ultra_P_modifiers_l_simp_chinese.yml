@@ -1,2 +1,5 @@
 ﻿l_simp_chinese:
  land_redistribution_modifier: 0 "土地再分配"
+ restricted_slave_trade_ig_modifier2: 0 "压制奴隶贸易"
+ modifier_state_unincorporated_pop_qualifications_mult: 0 "[concept_pop_qualifications] 在 [Concept('concept_unincorporated_state', '$concept_unincorporated_states$')]"
+ modifier_state_unincorporated_pop_qualifications_mult_desc: 0 "[concept_pop_qualifications] 在 [Concept('concept_unincorporated_state', '$concept_unincorporated_states$')] 的加分或减分"

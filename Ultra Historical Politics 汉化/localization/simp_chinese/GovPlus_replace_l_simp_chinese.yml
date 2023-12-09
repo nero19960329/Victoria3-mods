@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ law_presidential_republic: "总统制"
+ law_parliamentary_republic: "议会制"
+ concept_government_type_ingame_added: 3 "\n\n在[GetPlayer.GetNameNoFlag]，$concept_government_type$是#tooltippable#tooltip:[GetPlayer.GetGovernment.GetTooltipTag],GOVERNMENT_TYPE_TOOLTIP_DESC [GetPlayer.GetGovernment.GetName]#!#!，原因如下：\n[GetPlayer.GetGovernment.GetPossibleTriggerDesc(AccessPlayer)]"
+ GovPlus_gov_type_head_of_gov: "其中有一个独立的[concept_GovPlus_head_of_gov]。\n\n[GetPlayer.GetNameNoFlag]是#tooltippable#tooltip:[GetPlayer.GetGovernment.GetTooltipTag],GOVERNMENT_TYPE_TOOLTIP_DESC [GetPlayer.GetGovernment.GetName]#!#!"
+ GovPlus_CHARACTER_PANEL_RULER: "[Concept('concept_ruler', Character.GetPrimaryRoleTitle)]是[Character.GetCountry.GetName]的统治者"
+ GovPlus_CHARACTER_PANEL_PREMIER: "[Concept('concept_GovPlus_head_of_gov', Character.GetCustom('GovPlus_cl_head_of_gov_title_character'))]是[Character.GetCountry.GetName]的总理"
+ GovPlus_CHARACTER_PANEL_OTHER: "[Character.GetPrimaryRoleName]是[Character.GetCountry.GetName]的一员"
+ CHARACTER_PANEL_SUBTITLE_OTHER: "[SelectLocalization(Character.IsRuler, 'GovPlus_CHARACTER_PANEL_RULER', 'GovPlus_CHAR_PNL_SUB_OTHER_2')]"
+ GovPlus_CHAR_PNL_SUB_OTHER_2: "[SelectLocalization(GetScriptedGui('GovPlus_sg_is_head_of_gov').IsShown(GuiScope.SetRoot(Character.MakeScope).End), 'GovPlus_CHARACTER_PANEL_PREMIER', 'GovPlus_CHARACTER_PANEL_OTHER)"
