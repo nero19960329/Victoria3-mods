@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+ rule_aroai_stalemate_war_prevention: 0 "ARoAI | 阻止僵局战争"
+ setting_aroai_stalemate_war_prevention_enabled: 0 "已启用"
+ setting_aroai_stalemate_war_prevention_enabled_desc: 0 "当两位领导都是AI国家且战争支持在连续多年停留在0时，将被强制性地以和平解决（或在内战中吞并）"
+ setting_aroai_stalemate_war_prevention_disabled: 0 "#high 禁用#"
+ setting_aroai_stalemate_war_prevention_disabled_desc: 0 "当两位领导都是AI国家且战争支持在连续多年停留在0时，将被强制性地以和平解决（或在内战中吞并）"
