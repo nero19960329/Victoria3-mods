@@ -3,3 +3,6 @@
  restricted_slave_trade_ig_modifier2: 0 "压制奴隶贸易"
  modifier_state_unincorporated_pop_qualifications_mult: 0 "[concept_pop_qualifications] 在 [Concept('concept_unincorporated_state', '$concept_unincorporated_states$')]"
  modifier_state_unincorporated_pop_qualifications_mult_desc: 0 "[concept_pop_qualifications] 在 [Concept('concept_unincorporated_state', '$concept_unincorporated_states$')] 的加分或减分"
+ american_two_party_system_modifier: 0 "美国的两党制"
+ american_two_party_system_modifier_desc: 0 "美国的多数制选举促进了两个大党派的形成。人民已经习惯了它们之间的内斗。"
+ outmoded_bureaucracy_ultra: 0 "$Outmoded Bureaucracy$"

@@ -65,3 +65,4 @@
  from_industrialists_ig: 0 "政党中的工业家"
  from_rural_folk_ig: 0 "政党中的农村人"
  from_devout_in_party: 0 "政党中的虔诚者"
+ from_landowner_ig: 0 "党内地主"
