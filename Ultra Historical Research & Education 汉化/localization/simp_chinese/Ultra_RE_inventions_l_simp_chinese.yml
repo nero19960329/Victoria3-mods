@@ -3,6 +3,8 @@
  enlightenment_desc: 1 "启蒙是人类从自己强加给自己的未成年期中解脱出来的过程。未成年期是无法在没有他人指导的情况下运用自己的理解力。"
  terakoya: 0 "寺子屋"
  terakoya_desc: 1 "由于政府只通过书面远程传达信息，因此即便对于村庄的人来说，教育变得更加重要。"
+ early_nationalism: 0 "民族认同"
+ early_nationalism_desc: 0 ""
  pm_repeaters: 0 "后膛装弹步枪"
  repeaters: 0 "后膛装弹步枪"
  repeaters_desc: 0 "通过改变设计，使子弹从后膛装入，而不是从枪口装入，可以制造出更高效的武器。"

@@ -1,8 +1,8 @@
 {
   "name" : "Essential UI 汉化",
   "id" : "",
-  "version" : "0.2.0",
-  "supported_game_version" : "1.5.*",
+  "version" : "0.3.0",
+  "supported_game_version" : "1.6.*",
   "short_description" : "Essential UI 的汉化模组",
   "tags" : [],
   "relationships" : [],

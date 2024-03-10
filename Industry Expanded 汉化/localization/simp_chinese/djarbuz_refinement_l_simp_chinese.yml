@@ -364,3 +364,5 @@
  pm_no_petcoke: 0 "无石油焦"
  pm_petcoke: 0 "石油焦生产"
  pm_coal_liquefaction: 0 "煤液化"
+ modifier_goods_input_fuel_mult: 0 "建筑@fuel! 精炼燃料输入"
+ modifier_goods_input_fuel_mult_desc: 0 "建筑消耗@fuel! 输出数量的加成或惩罚"

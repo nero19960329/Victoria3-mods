@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ modifier_state_unincorporated_pop_qualifications_mult: 0 "[concept_pop_qualifications]在[Concept('concept_unincorporated_state', '$concept_unincorporated_states$')]"
+ modifier_state_unincorporated_pop_qualifications_mult_desc: 0 "对[Concept('concept_unincorporated_state', '$concept_unincorporated_states$')]中的[concept_pop_qualifications]进行奖励或处罚"
+ german_homelands_trigger_desc: 0 "法国在莱茵兰夺取了土地"
