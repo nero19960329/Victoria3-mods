@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ institution_conscription: 0 "征兵制"
+ institution_conscription_desc: 0 "强制兵役制度，确保国民为国家的防御。"
+ modifier_country_institution_conscription_max_investment_add: 0 "最大$institution_conscription$ [concept_institution]投资"
+ modifier_country_institution_conscription_max_investment_add_desc: 0 "对$institution_conscription$ [concept_institution]的最大投资级别的奖励或处罚"

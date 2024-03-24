@@ -3,7 +3,7 @@
   "picture": "thumbnail.png",
   "id" : "",
   "version" : "0.2.0",
-  "supported_game_version" : "1.5.*",
+  "supported_game_version" : "1.6.*",
   "short_description" : "Industry Expanded mod 的汉化模组",
   "tags" : [],
   "relationships" : [],

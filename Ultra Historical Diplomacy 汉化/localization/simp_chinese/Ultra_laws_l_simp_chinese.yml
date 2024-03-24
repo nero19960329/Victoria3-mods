@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ law_weighted_universal_suffrage: 0 "加权普选"
+ law_weighted_universal_suffrage_desc: 0 "每个成年男子都有投票权。拥有土地或资本财产的男子被授予更多选票。"
+ law_weighted_wealth_voting: 0 "财富加权投票"
+ law_weighted_wealth_voting_desc: 0 "富裕公民有一票。拥有土地或资本财产的男子被授予更多选票。"
+ law_freedom_of_belief: 0 "信仰自由"
+ law_freedom_of_belief_desc: 0 "在仍然认同国家传统信仰的同时，该国对所有信仰的信徒合法提供自由和平等。"
+ law_mixed_economy: 0 "混合经济"
+ law_mixed_economy_desc: 0 "政府控制最重要的公共领域，同时为私营企业提供充足的发展空间和机遇的经济体系。"
+ gov_absolute_monarchy: 0 "绝对君主制"
+ gov_absolute_monarchy_desc: 1 "这是一种[concept_government]形式，权力完全掌握在国王或女王手中。"
+ gov_monarchy: 0 "君主制"
+ gov_monarchy_desc: 1 "这是一种[concept_government]形式，权力主要掌握在国王或女王手中。"

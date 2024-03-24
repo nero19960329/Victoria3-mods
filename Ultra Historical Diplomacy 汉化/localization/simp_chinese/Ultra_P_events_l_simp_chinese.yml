@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+ t: 0 "捍卫革命"
+ d: 0 "反革命势力威胁着革命，特别是在[ROOT.GetCountry.GetName]内部，我们必须采取措施来保护它。"
+ f: 0 "为了捍卫我们的革命，重要的是要实施保护措施。"
+ a: 0 "我向您保证，政委..."
+ b: 0 "$ideologies_change.3.a$"

@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ land_redistribution_modifier: 0 "土地再分配"
+ restricted_slave_trade_ig_modifier2: 0 "镇压奴隶贸易"
+ modifier_state_unincorporated_pop_qualifications_mult: 0 "[concept_pop_qualifications] in [Concept('concept_unincorporated_state', '$concept_unincorporated_states$')]"
+ modifier_state_unincorporated_pop_qualifications_mult_desc: 0 "对[concept_pop_qualifications]在[Concept('concept_unincorporated_state', '$concept_unincorporated_states$')]的奖励或惩罚"
+ american_two_party_system_modifier: 0 "美国两党制"
+ american_two_party_system_modifier_desc: 0 "美国的多数制度鼓励两个大帐篷政党。人们习惯了他们的内讧。"
+ outmoded_bureaucracy_ultra: 0 "$Outmoded Bureaucracy$"
