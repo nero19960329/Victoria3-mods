@@ -19,3 +19,5 @@
  je_vanguardist_securitarian_reason: 0 "我们必须保护革命免受反革命势力的威胁。"
  je_AI_political_stability: 0 "AI政治稳定性"
  je_AI_political_stability_reason: 0 "AI对于处理强大的政治运动-超级政治模组并不够灵活，很可能陷入内战而不是通过立法。因此，只要AI还是那么糟糕，它就需要不同的规则。"
+ je_medium_democracy: 0 "受治理者同意"
+ je_medium_democracy_reason: 0 "现在我们的国家已经接触到西方思想，越来越多的人民想要对政府有发言权。"
