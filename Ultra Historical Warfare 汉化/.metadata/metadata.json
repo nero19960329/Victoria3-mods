@@ -1,8 +1,8 @@
 {
   "name" : "Ultra Historical Warfare 汉化",
   "id" : "",
-  "version" : "0.2.0",
-  "supported_game_version" : "1.6.*",
+  "version" : "0.3.0",
+  "supported_game_version" : "1.7.*",
   "short_description" : "Ultra Historical Warfare 的汉化模组",
   "tags" : [],
   "relationships" : [],
